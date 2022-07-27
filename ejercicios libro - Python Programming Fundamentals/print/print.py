@@ -1,0 +1,1 @@
+print("umeroLargo %10d"%23)
